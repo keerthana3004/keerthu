@@ -7,3 +7,5 @@ react
 
 angular
 php
+
+mysql
